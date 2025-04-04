@@ -28,3 +28,10 @@ while True:
         num1 = int(input("Ingrese el primer numero "))
         num2 = int(input("Ingrese EL segundo numero "))
         div (num1, num2)
+    
+    elif opcion == 5:
+        print("Adios")
+        break 
+
+    else:
+        print("Opcion incorrecta")
