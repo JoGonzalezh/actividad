@@ -5,7 +5,7 @@ while True:
     1)Suma  
     2)Resta
     3)Multiplicacion
-    4)Divicion
+    4)Division
     5)Salir
     """
     opcion = int(input("Seleccione su opcion: "))
